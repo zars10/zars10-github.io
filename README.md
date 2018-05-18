@@ -1,2 +1,2 @@
-# zars10-github.io
+# zars10.github.io
 TBM site
